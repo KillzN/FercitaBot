@@ -33,9 +33,8 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : KillzN
-┃📞 Wa.me/56983073328
-┃https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+┃⭐ Creador : Fercita
+┃📞 Wa.me/56937835229
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
@@ -62,16 +61,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤  ${usedPrefix}kickfantasmas*
   ╰━━━━━━━━━━━━
 
- ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
- *┃➤ 🗺️ ${usedPrefix}menuff*
- *┃➤ 🗺️ ${usedPrefix}bermuda*
- *┃➤ 🗺️ ${usedPrefix}kalahari*
- *┃➤ 🗺️ ${usedPrefix}alpes*
- *┃➤ 🗺️ ${usedPrefix}purgatorio*
- *┃➤ 🗺️ ${usedPrefix}nexterra*
- *┃➤ 📋 ${usedPrefix}agendasemanal*
-  ╰━━━━━━━━━━━━
-
   ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
  *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
  *┃➤ ⚔️ ${usedPrefix}bsmsac*
@@ -80,50 +69,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤ 📍 ${usedPrefix}buscarvsmixto*
  *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
-
- *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
-*║* 💻➺ _${usedPrefix}Fem4_
-*║* 💻➺ _${usedPrefix}Fem6_
-*║* 💻➺ _${usedPrefix}FemInterna4_
-*║* 💻➺ _${usedPrefix}FemInterna6_
-*║* 💻➺ _${usedPrefix}Masc4_
-*║* 💻➺ _${usedPrefix}Masc6_
-*║* 💻➺ _${usedPrefix}MascInterna4_
-*║* 💻➺ _${usedPrefix}MascInterna6_
-*║* 💻➺ _${usedPrefix}Mixto4_
-*║* 💻➺ _${usedPrefix}Mixto6_
-*║* 💻➺ _${usedPrefix}MixtoInterna4_
-*║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}apos_
-*║* 💻➺ _${usedPrefix}mapa_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
-*║* 💻➺ _${usedPrefix}Nexterra_
-*║* 💻➺ _${usedPrefix}Bermuda_
-*║* 💻➺ _${usedPrefix}Kalahary_
-*║* 💻➺ _${usedPrefix}Alpes_
-*║* 💻➺ _${usedPrefix}AgendaSemanal_
-*╚══ ≪ •❈• ≫ ══╝*
-
- *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
- *║* 🎐_${usedPrefix}SpamComu / Comunidades_
- *║* 🎐 _${usedPrefix}Spam2_
- *║* 🎐 _${usedPrefix}rcursosdzn_
- *║* 🎐 _${usedPrefix}drivesdzn_
- *║* 🎐 _${usedPrefix}dzn_
- *║* 🎐 _${usedPrefix}ApkEdits_
- *║* 🎐 _${usedPrefix}DriveEdits_
- *╚══ ≪ •❈• ≫ ══╝*
-
- ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
- *┃➤ 💴 ${usedPrefix}plataformas*
- *┃➤ 💳 ${usedPrefix}drops*
- *┃➤ 💳 ${usedPrefix}streaming*
- *┃➤ 💳 ${usedPrefix}cccompras*
- *┃➤ 💰 ${usedPrefix}cursovip*
- *┃➤ 💰 ${usedPrefix}cc2*
- *┃➤ 💸 ${usedPrefix}cursoplataformas*
-  ╰━━━━━━━━━━━
 
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
@@ -145,7 +90,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *║* 🎐 _${usedPrefix}stickerfilter *efecto : responder a imagen*_
  *║* 🎐 _${usedPrefix}cs *:* cs2_
  *╚══ ≪ •❈• ≫ ══╝*
-
 
  ╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕
 *┃➤ 🕹️ ${usedPrefix}mates*
@@ -196,7 +140,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
 
-
  ╭━〔 🎭 *IMAGENES* 🎭 〕
 *┃➤ 🖍️ ${usedPrefix}goku*
 *┃➤ 🖍️ ${usedPrefix}vegeta*
@@ -207,7 +150,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 🖍️ ${usedPrefix}hellokitty*
 *┃➤ 🖍️ ${usedPrefix}charmander*
  ╰━━━━━━━━━━━━
- 
 
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
 *┃➤ 📥 ${usedPrefix}play*
@@ -230,7 +172,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 📥 ${usedPrefix}pinteres*
 *┃➤ 📥 ${usedPrefix}igstory*
  ╰━━━━━━━━━━━━
-
 
 *╭━〔 👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀 〕*
 *┃➤ 📍 ${usedPrefix}toimg*
