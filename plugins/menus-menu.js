@@ -45,8 +45,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
   ╰━━━━━━━━━━━━
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃➤  ${usedPrefix}menuff*
- *┃➤  ${usedPrefix}comandosff*
  *┃➤  ${usedPrefix}kick*
  *┃➤  ${usedPrefix}grupo*
  *┃➤  ${usedPrefix}promote*
@@ -59,15 +57,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤  ${usedPrefix}hidetag*
  *┃➤  ${usedPrefix}fantasmas*
  *┃➤  ${usedPrefix}kickfantasmas*
-  ╰━━━━━━━━━━━━
-
-  ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
- *┃➤ ⚔️ ${usedPrefix}bsmsac*
- *┃➤ ⚓ ${usedPrefix}buscarvsfem*
- *┃➤ ✨ ${usedPrefix}bsfem*
- *┃➤ 📍 ${usedPrefix}buscarvsmixto*
- *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
 
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
